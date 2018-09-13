@@ -1,7 +1,7 @@
 # Teams
 
 * 2018
-
+  * Did you turn it off and on again?: Luis, Kaitlyn, Michael, Margaret
 
 * 2016
 
